@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.slick-dots li button:before {
+  color: #4a5568;
+}
+
+.slick-dots li.slick-active button:before {
+  color: #3182ce;
+}
